@@ -1,0 +1,37 @@
+
+📘 Module 01 Completed – *Introduction and Capabilities of Generative AI*
+
+ 🔑 Key Learnings:
+- **Generative AI vs. Discriminative AI**  
+  - Discriminative AI → mimics analytical & predictive skills.  
+  - Generative AI → mimics human **creative** skills (creating new content).
+
+- **Core Capabilities of Generative AI:**
+  - Generates new **text, images, code, audio, video**.
+  - Creates **synthetic data** to augment datasets.
+  - Builds **avatars, digital personalities, and virtual worlds**.
+  - Completes or generates **code**.
+
+- **Important Models & Techniques:**
+  - **GANs (Generative Adversarial Networks)** → generator vs discriminator.
+  - **VAEs (Variational Autoencoders)** → latent space sampling.
+  - **Transformers & LLMs** → like GPT, Gemini, Watsonx.
+  - **Diffusion models** → noise-to-image generation.
+
+- **Applications Across Domains:**
+  - Entertainment (art, music, storytelling 🎨🎶).
+  - Healthcare (drug discovery, diagnosis 🏥).
+  - Business (automation, customer support 💼).
+  - Education, HR, Finance, and more.
+
+### 🧪 Hands-on Lab Experience:
+- Explored **Generative AI Classroom** powered by multiple models.
+- Practiced **prompting techniques** → how specificity in prompts affects outputs.
+- Compared responses from different LLMs.
+- Understood strengths & weaknesses of generative tools.
+
+### 📝 Reflection:
+This module helped me connect the **history, evolution, and fundamentals** of Generative AI with its **real-world applications**.
+I also gained **hands-on confidence** in prompting and generating content. Feels like a strong foundation to build upon for the next modules. 🚀
+
+
